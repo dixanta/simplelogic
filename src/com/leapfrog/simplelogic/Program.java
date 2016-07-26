@@ -16,7 +16,7 @@ public class Program {
      */
     public static void main(String[] args) {
 
-        String firstName="Kushal";
+        String firstName="Dixanta";
         String lastName="Shrestha";
         String fullName=firstName + " " + lastName;
         String domain="@leapfrog.academy";
